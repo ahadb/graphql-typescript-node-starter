@@ -20,7 +20,7 @@ Fundamentally you have one query and one mutation, the first is to get a listing
 
 Start the server and head over to http://localhost:9000/v1/graph/api and start querying via the graphical GUI:
 
-```json
+```bash
 query {
   people {
     id
@@ -30,7 +30,7 @@ query {
 }
 ```
 
-```json
+```bash
 mutation {
   deletePerson(id: "001") {
     id
