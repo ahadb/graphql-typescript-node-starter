@@ -86,5 +86,6 @@ At a GraphQL server / API level:
 - [ ] Login, Logout
 - [ ] Persistence: DB, Mongo, SQL, choice
 
+If you're interested you're welcome to contribute to this project - please send a pull request.
 
 
